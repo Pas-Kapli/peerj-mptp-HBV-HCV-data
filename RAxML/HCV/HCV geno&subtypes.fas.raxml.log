@@ -1,0 +1,78 @@
+
+RAxML-NG v. 0.5.1b BETA released on 01.12.2017 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+./raxml-ng --msa HCV geno&subtypes.fas --model GTR+G --tree random{10}
+
+Analysis options:
+  run mode: ML tree search
+  start tree(s): random (10)
+  random seed: 1524176458
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000000
+  branch lengths: ML estimate (linked)
+  SIMD kernels: AVX
+  parallelization: PTHREADS (4 threads)
+
+[00:00:00] Reading alignment from file: HCV geno&subtypes.fas
+[00:00:00] Loaded alignment with 213 taxa and 10141 sites
+
+WARNING: Fully undetermined columns found: 3
+
+NOTE: Reduced alignment (with gap-only columns removed) was printed to:
+/home/theodora/Downloads/software/raxml-ng_v0.5.1b_linux_x86_64/HCV geno&subtypes.fas.raxml.reduced.phy
+
+Alignment comprises 1 partitions and 7192 patterns
+
+Partition 0: noname
+Model: GTR+FO+G4m
+Alignment sites / patterns: 10141 / 7192
+Gaps: 7.08 %
+Invariant sites: 28.84 %
+
+
+[00:00:00] Generating random starting tree(s) with 213 taxa
+[00:00:00] Data distribution: partitions/thread: 1-1, patterns/thread: 1798-1798
+
+Starting ML tree search with 10 distinct starting trees
+
+[00:42:29] ML tree search #1, logLikelihood: -752426.325269
+[01:31:57] ML tree search #2, logLikelihood: -756870.571677
+[02:14:10] ML tree search #3, logLikelihood: -752421.403829
+[03:00:53] ML tree search #4, logLikelihood: -752415.006341
+[03:39:43] ML tree search #5, logLikelihood: -756884.441877
+[04:20:48] ML tree search #6, logLikelihood: -756870.546341
+[04:56:19] ML tree search #7, logLikelihood: -752426.283415
+[05:38:50] ML tree search #8, logLikelihood: -752413.804336
+[06:17:27] ML tree search #9, logLikelihood: -752427.584615
+[06:58:04] ML tree search #10, logLikelihood: -756884.406025
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.336889 (ML),  weights&rates: (0.250000,0.008759) (0.250000,0.133333) (0.250000,0.652858) (0.250000,3.205050) 
+   Base frequencies (ML): 0.185875 0.365227 0.247300 0.201598 
+   Substitution rates (ML): 1.350136 7.060650 2.242141 0.611809 6.779262 1.000000 
+
+Final LogLikelihood: -752413.804336
+
+All ML trees saved to: /home/theodora/Downloads/software/raxml-ng_v0.5.1b_linux_x86_64/HCV geno&subtypes.fas.raxml.mlTrees
+Best ML tree saved to: /home/theodora/Downloads/software/raxml-ng_v0.5.1b_linux_x86_64/HCV geno&subtypes.fas.raxml.bestTree
+Optimized model saved to: /home/theodora/Downloads/software/raxml-ng_v0.5.1b_linux_x86_64/HCV geno&subtypes.fas.raxml.bestModel
+
+Execution log saved to: /home/theodora/Downloads/software/raxml-ng_v0.5.1b_linux_x86_64/HCV geno&subtypes.fas.raxml.log
+
+Analysis started: 20-Apr-2018 00:20:58 / finished: 20-Apr-2018 07:19:03
+
+Elapsed time: 25084.668 seconds
+

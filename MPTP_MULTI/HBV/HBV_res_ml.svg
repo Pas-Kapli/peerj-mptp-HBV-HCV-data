@@ -1,0 +1,4091 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="2250"
+   style="border: 1px solid #cccccc;"
+   id="svg4478"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="HBV_res_ml.svg">
+  <metadata
+     id="metadata5580">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5578" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1303"
+     inkscape:window-height="744"
+     id="namedview5576"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:zoom="0.26977778"
+     inkscape:cx="411.40033"
+     inkscape:cy="1125"
+     inkscape:window-x="63"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4478" />
+  <line
+     x1="20.000000"
+     y1="10.000000"
+     x2="199.200000"
+     y2="10.000000"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line4480" />
+  <text
+     x="204.200000"
+     y="16.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4482">0.0177619</text>
+  <line
+     x1="1192.522907"
+     y1="30.000000"
+     x2="1200.301556"
+     y2="30.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4484" />
+  <text
+     x="1205.301556"
+     y="34.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4486">G_AF160501</text>
+  <line
+     x1="1192.532996"
+     y1="50.000000"
+     x2="1208.100384"
+     y2="50.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4488" />
+  <text
+     x="1213.100384"
+     y="54.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4490">G_AB064310</text>
+  <line
+     x1="1192.532996"
+     y1="70.000000"
+     x2="1200.301556"
+     y2="70.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4492" />
+  <text
+     x="1205.301556"
+     y="74.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4494">G_AB064312</text>
+  <line
+     x1="1192.532996"
+     y1="50.000000"
+     x2="1192.532996"
+     y2="70.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4496" />
+  <circle
+     cx="1192.532996"
+     cy="60.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4498" />
+  <line
+     x1="1192.522907"
+     y1="60.000000"
+     x2="1192.532996"
+     y2="60.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4500" />
+  <line
+     x1="1192.522907"
+     y1="30.000000"
+     x2="1192.522907"
+     y2="60.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4502" />
+  <circle
+     cx="1192.522907"
+     cy="45.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4504" />
+  <line
+     x1="1185.329422"
+     y1="45.000000"
+     x2="1192.522907"
+     y2="45.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4506" />
+  <line
+     x1="1185.329422"
+     y1="90.000000"
+     x2="1193.693236"
+     y2="90.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4508" />
+  <text
+     x="1198.693236"
+     y="94.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4510">G_AB056513</text>
+  <line
+     x1="1185.329422"
+     y1="45.000000"
+     x2="1185.329422"
+     y2="90.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4512" />
+  <circle
+     cx="1185.329422"
+     cy="67.500000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4514" />
+  <line
+     x1="287.374671"
+     y1="67.500000"
+     x2="1185.329422"
+     y2="67.500000"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line4516" />
+  <line
+     x1="1272.993083"
+     y1="110.000000"
+     x2="1301.686311"
+     y2="110.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4518" />
+  <text
+     x="1306.686311"
+     y="114.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4520">D4_AB048702</text>
+  <line
+     x1="1272.993083"
+     y1="130.000000"
+     x2="1469.436765"
+     y2="130.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4522" />
+  <text
+     x="1474.436765"
+     y="134.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4524">D4_AB048701</text>
+  <line
+     x1="1272.993083"
+     y1="110.000000"
+     x2="1272.993083"
+     y2="130.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4526" />
+  <circle
+     cx="1272.993083"
+     cy="120.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4528" />
+  <line
+     x1="1207.101569"
+     y1="120.000000"
+     x2="1272.993083"
+     y2="120.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4530" />
+  <line
+     x1="1207.101569"
+     y1="150.000000"
+     x2="1279.016240"
+     y2="150.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4532" />
+  <text
+     x="1284.016240"
+     y="154.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4534">D4_AB033559</text>
+  <line
+     x1="1207.101569"
+     y1="120.000000"
+     x2="1207.101569"
+     y2="150.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4536" />
+  <circle
+     cx="1207.101569"
+     cy="135.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4538" />
+  <line
+     x1="1074.814087"
+     y1="135.000000"
+     x2="1207.101569"
+     y2="135.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4540" />
+  <line
+     x1="1194.984633"
+     y1="170.000000"
+     x2="1281.377075"
+     y2="170.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4542" />
+  <text
+     x="1286.377075"
+     y="174.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4544">D7_FJ904447</text>
+  <line
+     x1="1194.984633"
+     y1="190.000000"
+     x2="1372.057359"
+     y2="190.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4546" />
+  <text
+     x="1377.057359"
+     y="194.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4548">D1_FJ904413</text>
+  <line
+     x1="1194.984633"
+     y1="170.000000"
+     x2="1194.984633"
+     y2="190.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4550" />
+  <circle
+     cx="1194.984633"
+     cy="180.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4552" />
+  <line
+     x1="1074.814087"
+     y1="180.000000"
+     x2="1194.984633"
+     y2="180.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4554" />
+  <line
+     x1="1074.814087"
+     y1="135.000000"
+     x2="1074.814087"
+     y2="180.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4556" />
+  <circle
+     cx="1074.814087"
+     cy="157.500000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4558" />
+  <line
+     x1="1026.911330"
+     y1="157.500000"
+     x2="1074.814087"
+     y2="157.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4560" />
+  <line
+     x1="1179.629115"
+     y1="210.000000"
+     x2="1295.975915"
+     y2="210.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4562" />
+  <text
+     x="1300.975915"
+     y="214.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4564">D3_EU594435</text>
+  <line
+     x1="1282.244732"
+     y1="230.000000"
+     x2="1448.027824"
+     y2="230.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4566" />
+  <text
+     x="1453.027824"
+     y="234.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4568">D3_AJ132335</text>
+  <line
+     x1="1282.244732"
+     y1="250.000000"
+     x2="1500.167978"
+     y2="250.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4570" />
+  <text
+     x="1505.167978"
+     y="254.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4572">D3_AY902776</text>
+  <line
+     x1="1282.244732"
+     y1="230.000000"
+     x2="1282.244732"
+     y2="250.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4574" />
+  <circle
+     cx="1282.244732"
+     cy="240.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4576" />
+  <line
+     x1="1233.998947"
+     y1="240.000000"
+     x2="1282.244732"
+     y2="240.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4578" />
+  <line
+     x1="1233.998947"
+     y1="270.000000"
+     x2="1499.946019"
+     y2="270.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4580" />
+  <text
+     x="1504.946019"
+     y="274.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4582">D3_DQ336688</text>
+  <line
+     x1="1233.998947"
+     y1="240.000000"
+     x2="1233.998947"
+     y2="270.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4584" />
+  <circle
+     cx="1233.998947"
+     cy="255.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4586" />
+  <line
+     x1="1213.931848"
+     y1="255.000000"
+     x2="1233.998947"
+     y2="255.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4588" />
+  <line
+     x1="1328.270929"
+     y1="290.000000"
+     x2="1446.050372"
+     y2="290.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4590" />
+  <text
+     x="1451.050372"
+     y="294.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4592">D6_AB493845</text>
+  <line
+     x1="1328.270929"
+     y1="310.000000"
+     x2="1354.129136"
+     y2="310.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4594" />
+  <text
+     x="1359.129136"
+     y="314.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4596">D6_AB493846</text>
+  <line
+     x1="1328.270929"
+     y1="290.000000"
+     x2="1328.270929"
+     y2="310.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4598" />
+  <circle
+     cx="1328.270929"
+     cy="300.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4600" />
+  <line
+     x1="1213.931848"
+     y1="300.000000"
+     x2="1328.270929"
+     y2="300.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4602" />
+  <line
+     x1="1213.931848"
+     y1="255.000000"
+     x2="1213.931848"
+     y2="300.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4604" />
+  <circle
+     cx="1213.931848"
+     cy="277.500000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4606" />
+  <line
+     x1="1179.629115"
+     y1="277.500000"
+     x2="1213.931848"
+     y2="277.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4608" />
+  <line
+     x1="1179.629115"
+     y1="210.000000"
+     x2="1179.629115"
+     y2="277.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4610" />
+  <circle
+     cx="1179.629115"
+     cy="243.750000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4612" />
+  <line
+     x1="1119.084791"
+     y1="243.750000"
+     x2="1179.629115"
+     y2="243.750000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4614" />
+  <line
+     x1="1238.609638"
+     y1="330.000000"
+     x2="1490.633836"
+     y2="330.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4616" />
+  <text
+     x="1495.633836"
+     y="334.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4618">D2_AY090452</text>
+  <line
+     x1="1238.609638"
+     y1="350.000000"
+     x2="1329.481614"
+     y2="350.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4620" />
+  <text
+     x="1334.481614"
+     y="354.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4622">D2_Z35716</text>
+  <line
+     x1="1238.609638"
+     y1="330.000000"
+     x2="1238.609638"
+     y2="350.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4624" />
+  <circle
+     cx="1238.609638"
+     cy="340.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4626" />
+  <line
+     x1="1206.687918"
+     y1="340.000000"
+     x2="1238.609638"
+     y2="340.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4628" />
+  <line
+     x1="1206.687918"
+     y1="370.000000"
+     x2="1425.761314"
+     y2="370.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4630" />
+  <text
+     x="1430.761314"
+     y="374.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4632">D2_AB119256</text>
+  <line
+     x1="1206.687918"
+     y1="340.000000"
+     x2="1206.687918"
+     y2="370.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4634" />
+  <circle
+     cx="1206.687918"
+     cy="355.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4636" />
+  <line
+     x1="1174.746020"
+     y1="355.000000"
+     x2="1206.687918"
+     y2="355.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4638" />
+  <line
+     x1="1234.523577"
+     y1="390.000000"
+     x2="1478.738859"
+     y2="390.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4640" />
+  <text
+     x="1483.738859"
+     y="394.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4642">D1_X59795</text>
+  <line
+     x1="1234.523577"
+     y1="410.000000"
+     x2="1340.095283"
+     y2="410.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4644" />
+  <text
+     x="1345.095283"
+     y="414.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4646">D1_AY161157</text>
+  <line
+     x1="1234.523577"
+     y1="390.000000"
+     x2="1234.523577"
+     y2="410.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4648" />
+  <circle
+     cx="1234.523577"
+     cy="400.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4650" />
+  <line
+     x1="1200.705118"
+     y1="400.000000"
+     x2="1234.523577"
+     y2="400.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4652" />
+  <line
+     x1="1200.705118"
+     y1="430.000000"
+     x2="1346.774227"
+     y2="430.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4654" />
+  <text
+     x="1351.774227"
+     y="434.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4656">D1_AF151735</text>
+  <line
+     x1="1200.705118"
+     y1="400.000000"
+     x2="1200.705118"
+     y2="430.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4658" />
+  <circle
+     cx="1200.705118"
+     cy="415.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4660" />
+  <line
+     x1="1174.746020"
+     y1="415.000000"
+     x2="1200.705118"
+     y2="415.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4662" />
+  <line
+     x1="1174.746020"
+     y1="355.000000"
+     x2="1174.746020"
+     y2="415.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4664" />
+  <circle
+     cx="1174.746020"
+     cy="385.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4666" />
+  <line
+     x1="1119.084791"
+     y1="385.000000"
+     x2="1174.746020"
+     y2="385.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4668" />
+  <line
+     x1="1119.084791"
+     y1="243.750000"
+     x2="1119.084791"
+     y2="385.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4670" />
+  <circle
+     cx="1119.084791"
+     cy="314.375000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4672" />
+  <line
+     x1="1056.613461"
+     y1="314.375000"
+     x2="1119.084791"
+     y2="314.375000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4674" />
+  <line
+     x1="1395.151170"
+     y1="450.000000"
+     x2="1517.026762"
+     y2="450.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4676" />
+  <text
+     x="1522.026762"
+     y="454.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4678">D5_GQ205379</text>
+  <line
+     x1="1395.151170"
+     y1="470.000000"
+     x2="1491.188733"
+     y2="470.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4680" />
+  <text
+     x="1496.188733"
+     y="474.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4682">D5_DQ315779</text>
+  <line
+     x1="1395.151170"
+     y1="450.000000"
+     x2="1395.151170"
+     y2="470.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4684" />
+  <circle
+     cx="1395.151170"
+     cy="460.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4686" />
+  <line
+     x1="1056.613461"
+     y1="460.000000"
+     x2="1395.151170"
+     y2="460.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4688" />
+  <line
+     x1="1056.613461"
+     y1="314.375000"
+     x2="1056.613461"
+     y2="460.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4690" />
+  <circle
+     cx="1056.613461"
+     cy="387.187500"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4692" />
+  <line
+     x1="1026.911330"
+     y1="387.187500"
+     x2="1056.613461"
+     y2="387.187500"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4694" />
+  <line
+     x1="1026.911330"
+     y1="157.500000"
+     x2="1026.911330"
+     y2="387.187500"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4696" />
+  <circle
+     cx="1026.911330"
+     cy="272.343750"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4698" />
+  <line
+     x1="678.647787"
+     y1="272.343750"
+     x2="1026.911330"
+     y2="272.343750"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line4700" />
+  <line
+     x1="1056.906043"
+     y1="490.000000"
+     x2="1154.245093"
+     y2="490.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4702" />
+  <text
+     x="1159.245093"
+     y="494.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4704">E_X75664</text>
+  <line
+     x1="1056.906043"
+     y1="510.000000"
+     x2="1129.284810"
+     y2="510.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4706" />
+  <text
+     x="1134.284810"
+     y="514.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4708">E_X75657</text>
+  <line
+     x1="1056.906043"
+     y1="490.000000"
+     x2="1056.906043"
+     y2="510.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4710" />
+  <circle
+     cx="1056.906043"
+     cy="500.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4712" />
+  <line
+     x1="678.647787"
+     y1="500.000000"
+     x2="1056.906043"
+     y2="500.000000"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line4714" />
+  <line
+     x1="678.647787"
+     y1="272.343750"
+     x2="678.647787"
+     y2="500.000000"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line4716" />
+  <circle
+     cx="678.647787"
+     cy="386.171875"
+     r="0.000000"
+     fill="#31a354"
+     stroke="#31a354"
+     id="circle4718" />
+  <line
+     x1="411.641366"
+     y1="386.171875"
+     x2="678.647787"
+     y2="386.171875"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line4720" />
+  <line
+     x1="1203.378713"
+     y1="530.000000"
+     x2="1424.873479"
+     y2="530.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4722" />
+  <text
+     x="1429.873479"
+     y="534.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4724">B1_AB073858</text>
+  <line
+     x1="1203.378713"
+     y1="550.000000"
+     x2="1334.778359"
+     y2="550.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4726" />
+  <text
+     x="1339.778359"
+     y="554.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4728">B1_AB073838</text>
+  <line
+     x1="1203.378713"
+     y1="530.000000"
+     x2="1203.378713"
+     y2="550.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4730" />
+  <circle
+     cx="1203.378713"
+     cy="540.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4732" />
+  <line
+     x1="1176.007150"
+     y1="540.000000"
+     x2="1203.378713"
+     y2="540.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4734" />
+  <line
+     x1="1176.007150"
+     y1="570.000000"
+     x2="1315.710075"
+     y2="570.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4736" />
+  <text
+     x="1320.710075"
+     y="574.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4738">B1_D00329</text>
+  <line
+     x1="1176.007150"
+     y1="540.000000"
+     x2="1176.007150"
+     y2="570.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4740" />
+  <circle
+     cx="1176.007150"
+     cy="555.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4742" />
+  <line
+     x1="1069.012890"
+     y1="555.000000"
+     x2="1176.007150"
+     y2="555.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4744" />
+  <line
+     x1="1365.701264"
+     y1="590.000000"
+     x2="1514.292633"
+     y2="590.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4746" />
+  <text
+     x="1519.292633"
+     y="594.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4748">B2_AY596111</text>
+  <line
+     x1="1390.096561"
+     y1="610.000000"
+     x2="1506.836833"
+     y2="610.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4750" />
+  <text
+     x="1511.836833"
+     y="614.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4752">B2_AF282917</text>
+  <line
+     x1="1390.096561"
+     y1="630.000000"
+     x2="1611.561059"
+     y2="630.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4754" />
+  <text
+     x="1616.561059"
+     y="634.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4756">B2_X97850</text>
+  <line
+     x1="1390.096561"
+     y1="610.000000"
+     x2="1390.096561"
+     y2="630.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4758" />
+  <circle
+     cx="1390.096561"
+     cy="620.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4760" />
+  <line
+     x1="1365.701264"
+     y1="620.000000"
+     x2="1390.096561"
+     y2="620.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4762" />
+  <line
+     x1="1365.701264"
+     y1="590.000000"
+     x2="1365.701264"
+     y2="620.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4764" />
+  <circle
+     cx="1365.701264"
+     cy="605.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4766" />
+  <line
+     x1="1224.030977"
+     y1="605.000000"
+     x2="1365.701264"
+     y2="605.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4768" />
+  <line
+     x1="1368.828866"
+     y1="650.000000"
+     x2="1477.255770"
+     y2="650.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4770" />
+  <text
+     x="1482.255770"
+     y="654.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4772">B4_AB031266</text>
+  <line
+     x1="1368.828866"
+     y1="670.000000"
+     x2="1487.849261"
+     y2="670.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4774" />
+  <text
+     x="1492.849261"
+     y="674.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4776">B4_AB073835</text>
+  <line
+     x1="1368.828866"
+     y1="650.000000"
+     x2="1368.828866"
+     y2="670.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4778" />
+  <circle
+     cx="1368.828866"
+     cy="660.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4780" />
+  <line
+     x1="1339.711899"
+     y1="660.000000"
+     x2="1368.828866"
+     y2="660.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4782" />
+  <line
+     x1="1339.711899"
+     y1="690.000000"
+     x2="1487.385165"
+     y2="690.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4784" />
+  <text
+     x="1492.385165"
+     y="694.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4786">B4_AY033073</text>
+  <line
+     x1="1339.711899"
+     y1="660.000000"
+     x2="1339.711899"
+     y2="690.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4788" />
+  <circle
+     cx="1339.711899"
+     cy="675.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4790" />
+  <line
+     x1="1257.657744"
+     y1="675.000000"
+     x2="1339.711899"
+     y2="675.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4792" />
+  <line
+     x1="1586.156859"
+     y1="710.000000"
+     x2="1696.399789"
+     y2="710.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4794" />
+  <text
+     x="1701.399789"
+     y="714.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4796">B5_AB241117</text>
+  <line
+     x1="1586.156859"
+     y1="730.000000"
+     x2="1673.184910"
+     y2="730.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4798" />
+  <text
+     x="1678.184910"
+     y="734.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4800">B5_AB219429</text>
+  <line
+     x1="1586.156859"
+     y1="710.000000"
+     x2="1586.156859"
+     y2="730.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4802" />
+  <circle
+     cx="1586.156859"
+     cy="720.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4804" />
+  <line
+     x1="1457.218938"
+     y1="720.000000"
+     x2="1586.156859"
+     y2="720.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4806" />
+  <line
+     x1="1570.589471"
+     y1="750.000000"
+     x2="1689.650222"
+     y2="750.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4808" />
+  <text
+     x="1694.650222"
+     y="754.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4810">B8_AP011093</text>
+  <line
+     x1="1570.589471"
+     y1="770.000000"
+     x2="1621.286893"
+     y2="770.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4812" />
+  <text
+     x="1626.286893"
+     y="774.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4814">B8_AP011095</text>
+  <line
+     x1="1570.589471"
+     y1="750.000000"
+     x2="1570.589471"
+     y2="770.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4816" />
+  <circle
+     cx="1570.589471"
+     cy="760.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4818" />
+  <line
+     x1="1477.538263"
+     y1="760.000000"
+     x2="1570.589471"
+     y2="760.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4820" />
+  <line
+     x1="1511.719928"
+     y1="790.000000"
+     x2="1639.467342"
+     y2="790.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4822" />
+  <text
+     x="1644.467342"
+     y="794.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4824">B7_AP011088</text>
+  <line
+     x1="1511.719928"
+     y1="810.000000"
+     x2="1629.408569"
+     y2="810.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4826" />
+  <text
+     x="1634.408569"
+     y="814.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4828">B7_AP011089</text>
+  <line
+     x1="1511.719928"
+     y1="790.000000"
+     x2="1511.719928"
+     y2="810.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4830" />
+  <circle
+     cx="1511.719928"
+     cy="800.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4832" />
+  <line
+     x1="1506.211312"
+     y1="800.000000"
+     x2="1511.719928"
+     y2="800.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4834" />
+  <line
+     x1="1597.063110"
+     y1="830.000000"
+     x2="1812.000000"
+     y2="830.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4836" />
+  <text
+     x="1817.000000"
+     y="834.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4838">B3_AB219430</text>
+  <line
+     x1="1597.063110"
+     y1="850.000000"
+     x2="1648.668545"
+     y2="850.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4840" />
+  <text
+     x="1653.668545"
+     y="854.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4842">B3_AB033555</text>
+  <line
+     x1="1597.063110"
+     y1="830.000000"
+     x2="1597.063110"
+     y2="850.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4844" />
+  <circle
+     cx="1597.063110"
+     cy="840.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4846" />
+  <line
+     x1="1506.211312"
+     y1="840.000000"
+     x2="1597.063110"
+     y2="840.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4848" />
+  <line
+     x1="1506.211312"
+     y1="800.000000"
+     x2="1506.211312"
+     y2="840.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4850" />
+  <circle
+     cx="1506.211312"
+     cy="820.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4852" />
+  <line
+     x1="1477.538263"
+     y1="820.000000"
+     x2="1506.211312"
+     y2="820.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4854" />
+  <line
+     x1="1477.538263"
+     y1="760.000000"
+     x2="1477.538263"
+     y2="820.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4856" />
+  <circle
+     cx="1477.538263"
+     cy="790.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4858" />
+  <line
+     x1="1457.218938"
+     y1="790.000000"
+     x2="1477.538263"
+     y2="790.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4860" />
+  <line
+     x1="1457.218938"
+     y1="720.000000"
+     x2="1457.218938"
+     y2="790.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4862" />
+  <circle
+     cx="1457.218938"
+     cy="755.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4864" />
+  <line
+     x1="1257.657744"
+     y1="755.000000"
+     x2="1457.218938"
+     y2="755.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4866" />
+  <line
+     x1="1257.657744"
+     y1="675.000000"
+     x2="1257.657744"
+     y2="755.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4868" />
+  <circle
+     cx="1257.657744"
+     cy="715.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4870" />
+  <line
+     x1="1224.030977"
+     y1="715.000000"
+     x2="1257.657744"
+     y2="715.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4872" />
+  <line
+     x1="1224.030977"
+     y1="605.000000"
+     x2="1224.030977"
+     y2="715.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4874" />
+  <circle
+     cx="1224.030977"
+     cy="660.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4876" />
+  <line
+     x1="1069.012890"
+     y1="660.000000"
+     x2="1224.030977"
+     y2="660.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4878" />
+  <line
+     x1="1069.012890"
+     y1="555.000000"
+     x2="1069.012890"
+     y2="660.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4880" />
+  <circle
+     cx="1069.012890"
+     cy="607.500000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4882" />
+  <line
+     x1="961.292219"
+     y1="607.500000"
+     x2="1069.012890"
+     y2="607.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4884" />
+  <line
+     x1="1288.953943"
+     y1="870.000000"
+     x2="1476.650428"
+     y2="870.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4886" />
+  <text
+     x="1481.650428"
+     y="874.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4888">B6_AB287320</text>
+  <line
+     x1="1334.788448"
+     y1="890.000000"
+     x2="1504.960272"
+     y2="890.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4890" />
+  <text
+     x="1509.960272"
+     y="894.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4892">B6_AB287321</text>
+  <line
+     x1="1334.788448"
+     y1="910.000000"
+     x2="1492.480130"
+     y2="910.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4894" />
+  <text
+     x="1497.480130"
+     y="914.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4896">B6_AB287325</text>
+  <line
+     x1="1334.788448"
+     y1="890.000000"
+     x2="1334.788448"
+     y2="910.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4898" />
+  <circle
+     cx="1334.788448"
+     cy="900.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4900" />
+  <line
+     x1="1288.953943"
+     y1="900.000000"
+     x2="1334.788448"
+     y2="900.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4902" />
+  <line
+     x1="1288.953943"
+     y1="870.000000"
+     x2="1288.953943"
+     y2="900.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4904" />
+  <circle
+     cx="1288.953943"
+     cy="885.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4906" />
+  <line
+     x1="1222.578155"
+     y1="885.000000"
+     x2="1288.953943"
+     y2="885.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4908" />
+  <line
+     x1="1329.360545"
+     y1="930.000000"
+     x2="1422.916205"
+     y2="930.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4910" />
+  <text
+     x="1427.916205"
+     y="934.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4912">B6_DQ463792</text>
+  <line
+     x1="1329.360545"
+     y1="950.000000"
+     x2="1408.862174"
+     y2="950.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4914" />
+  <text
+     x="1413.862174"
+     y="954.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4916">B6_DQ463790</text>
+  <line
+     x1="1329.360545"
+     y1="930.000000"
+     x2="1329.360545"
+     y2="950.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4918" />
+  <circle
+     cx="1329.360545"
+     cy="940.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4920" />
+  <line
+     x1="1236.551474"
+     y1="940.000000"
+     x2="1329.360545"
+     y2="940.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4922" />
+  <line
+     x1="1266.980016"
+     y1="970.000000"
+     x2="1466.561389"
+     y2="970.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4924" />
+  <text
+     x="1471.561389"
+     y="974.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4926">B6_AB287318</text>
+  <line
+     x1="1266.980016"
+     y1="990.000000"
+     x2="1407.611133"
+     y2="990.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4928" />
+  <text
+     x="1412.611133"
+     y="994.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4930">B6_DQ463789</text>
+  <line
+     x1="1266.980016"
+     y1="970.000000"
+     x2="1266.980016"
+     y2="990.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4932" />
+  <circle
+     cx="1266.980016"
+     cy="980.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4934" />
+  <line
+     x1="1236.551474"
+     y1="980.000000"
+     x2="1266.980016"
+     y2="980.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4936" />
+  <line
+     x1="1236.551474"
+     y1="940.000000"
+     x2="1236.551474"
+     y2="980.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4938" />
+  <circle
+     cx="1236.551474"
+     cy="960.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4940" />
+  <line
+     x1="1228.490332"
+     y1="960.000000"
+     x2="1236.551474"
+     y2="960.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4942" />
+  <line
+     x1="1297.660784"
+     y1="1010.000000"
+     x2="1300.011530"
+     y2="1010.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4944" />
+  <text
+     x="1305.011530"
+     y="1014.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4946">B6_AB287314</text>
+  <line
+     x1="1297.660784"
+     y1="1030.000000"
+     x2="1414.058029"
+     y2="1030.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4948" />
+  <text
+     x="1419.058029"
+     y="1034.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4950">B6_AB287316</text>
+  <line
+     x1="1297.660784"
+     y1="1010.000000"
+     x2="1297.660784"
+     y2="1030.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4952" />
+  <circle
+     cx="1297.660784"
+     cy="1020.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4954" />
+  <line
+     x1="1228.490332"
+     y1="1020.000000"
+     x2="1297.660784"
+     y2="1020.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4956" />
+  <line
+     x1="1228.490332"
+     y1="960.000000"
+     x2="1228.490332"
+     y2="1020.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4958" />
+  <circle
+     cx="1228.490332"
+     cy="990.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4960" />
+  <line
+     x1="1222.578155"
+     y1="990.000000"
+     x2="1228.490332"
+     y2="990.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4962" />
+  <line
+     x1="1222.578155"
+     y1="885.000000"
+     x2="1222.578155"
+     y2="990.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4964" />
+  <circle
+     cx="1222.578155"
+     cy="937.500000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4966" />
+  <line
+     x1="961.292219"
+     y1="937.500000"
+     x2="1222.578155"
+     y2="937.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4968" />
+  <line
+     x1="961.292219"
+     y1="607.500000"
+     x2="961.292219"
+     y2="937.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4970" />
+  <circle
+     cx="961.292219"
+     cy="772.500000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4972" />
+  <line
+     x1="558.416708"
+     y1="772.500000"
+     x2="961.292219"
+     y2="772.500000"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line4974" />
+  <line
+     x1="1121.950078"
+     y1="1050.000000"
+     x2="1315.175356"
+     y2="1050.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4976" />
+  <text
+     x="1320.175356"
+     y="1054.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4978">A6_GQ331046</text>
+  <line
+     x1="1121.950078"
+     y1="1070.000000"
+     x2="1230.185290"
+     y2="1070.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4980" />
+  <text
+     x="1235.185290"
+     y="1074.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4982">A6_GQ331047</text>
+  <line
+     x1="1121.950078"
+     y1="1050.000000"
+     x2="1121.950078"
+     y2="1070.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4984" />
+  <circle
+     cx="1121.950078"
+     cy="1060.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle4986" />
+  <line
+     x1="979.573558"
+     y1="1060.000000"
+     x2="1121.950078"
+     y2="1060.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4988" />
+  <line
+     x1="1169.661145"
+     y1="1090.000000"
+     x2="1344.756419"
+     y2="1090.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4990" />
+  <text
+     x="1349.756419"
+     y="1094.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4992">A1_AY233277</text>
+  <line
+     x1="1169.661145"
+     y1="1110.000000"
+     x2="1418.466939"
+     y2="1110.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4994" />
+  <text
+     x="1423.466939"
+     y="1114.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text4996">A1_AB076679</text>
+  <line
+     x1="1169.661145"
+     y1="1090.000000"
+     x2="1169.661145"
+     y2="1110.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line4998" />
+  <circle
+     cx="1169.661145"
+     cy="1100.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5000" />
+  <line
+     x1="1120.517435"
+     y1="1100.000000"
+     x2="1169.661145"
+     y2="1100.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5002" />
+  <line
+     x1="1120.517435"
+     y1="1130.000000"
+     x2="1339.187269"
+     y2="1130.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5004" />
+  <text
+     x="1344.187269"
+     y="1134.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5006">A1_M57663</text>
+  <line
+     x1="1120.517435"
+     y1="1100.000000"
+     x2="1120.517435"
+     y2="1130.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5008" />
+  <circle
+     cx="1120.517435"
+     cy="1115.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5010" />
+  <line
+     x1="1012.241867"
+     y1="1115.000000"
+     x2="1120.517435"
+     y2="1115.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5012" />
+  <line
+     x1="1240.395398"
+     y1="1150.000000"
+     x2="1284.040581"
+     y2="1150.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5014" />
+  <text
+     x="1289.040581"
+     y="1154.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5016">A4_AY934764</text>
+  <line
+     x1="1240.395398"
+     y1="1170.000000"
+     x2="1276.594870"
+     y2="1170.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5018" />
+  <text
+     x="1281.594870"
+     y="1174.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5020">A4_GQ161813</text>
+  <line
+     x1="1240.395398"
+     y1="1150.000000"
+     x2="1240.395398"
+     y2="1170.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5022" />
+  <circle
+     cx="1240.395398"
+     cy="1160.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5024" />
+  <line
+     x1="1058.560645"
+     y1="1160.000000"
+     x2="1240.395398"
+     y2="1160.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5026" />
+  <line
+     x1="1175.129404"
+     y1="1190.000000"
+     x2="1291.546826"
+     y2="1190.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5028" />
+  <text
+     x="1296.546826"
+     y="1194.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5030">A5_24165</text>
+  <line
+     x1="1175.129404"
+     y1="1210.000000"
+     x2="1281.952150"
+     y2="1210.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5032" />
+  <text
+     x="1286.952150"
+     y="1214.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5034">A5_24063</text>
+  <line
+     x1="1175.129404"
+     y1="1190.000000"
+     x2="1175.129404"
+     y2="1210.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5036" />
+  <circle
+     cx="1175.129404"
+     cy="1200.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5038" />
+  <line
+     x1="1133.078289"
+     y1="1200.000000"
+     x2="1175.129404"
+     y2="1200.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5040" />
+  <line
+     x1="1193.007181"
+     y1="1230.000000"
+     x2="1292.374128"
+     y2="1230.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5042" />
+  <text
+     x="1297.374128"
+     y="1234.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5044">A5_FJ692611</text>
+  <line
+     x1="1193.007181"
+     y1="1250.000000"
+     x2="1307.517775"
+     y2="1250.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5046" />
+  <text
+     x="1312.517775"
+     y="1254.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5048">A5_FJ692595</text>
+  <line
+     x1="1193.007181"
+     y1="1230.000000"
+     x2="1193.007181"
+     y2="1250.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5050" />
+  <circle
+     cx="1193.007181"
+     cy="1240.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5052" />
+  <line
+     x1="1184.673635"
+     y1="1240.000000"
+     x2="1193.007181"
+     y2="1240.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5054" />
+  <line
+     x1="1184.673635"
+     y1="1270.000000"
+     x2="1240.990651"
+     y2="1270.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5056" />
+  <text
+     x="1245.990651"
+     y="1274.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5058">A5_FJ692598</text>
+  <line
+     x1="1184.673635"
+     y1="1240.000000"
+     x2="1184.673635"
+     y2="1270.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5060" />
+  <circle
+     cx="1184.673635"
+     cy="1255.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5062" />
+  <line
+     x1="1133.078289"
+     y1="1255.000000"
+     x2="1184.673635"
+     y2="1255.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5064" />
+  <line
+     x1="1133.078289"
+     y1="1200.000000"
+     x2="1133.078289"
+     y2="1255.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5066" />
+  <circle
+     cx="1133.078289"
+     cy="1227.500000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5068" />
+  <line
+     x1="1058.560645"
+     y1="1227.500000"
+     x2="1133.078289"
+     y2="1227.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5070" />
+  <line
+     x1="1058.560645"
+     y1="1160.000000"
+     x2="1058.560645"
+     y2="1227.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5072" />
+  <circle
+     cx="1058.560645"
+     cy="1193.750000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5074" />
+  <line
+     x1="1012.241867"
+     y1="1193.750000"
+     x2="1058.560645"
+     y2="1193.750000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5076" />
+  <line
+     x1="1012.241867"
+     y1="1115.000000"
+     x2="1012.241867"
+     y2="1193.750000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5078" />
+  <circle
+     cx="1012.241867"
+     cy="1154.375000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5080" />
+  <line
+     x1="979.573558"
+     y1="1154.375000"
+     x2="1012.241867"
+     y2="1154.375000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5082" />
+  <line
+     x1="979.573558"
+     y1="1060.000000"
+     x2="979.573558"
+     y2="1154.375000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5084" />
+  <circle
+     cx="979.573558"
+     cy="1107.187500"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5086" />
+  <line
+     x1="948.166379"
+     y1="1107.187500"
+     x2="979.573558"
+     y2="1107.187500"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5088" />
+  <line
+     x1="1173.555514"
+     y1="1290.000000"
+     x2="1372.148160"
+     y2="1290.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5090" />
+  <text
+     x="1377.148160"
+     y="1294.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5092">A2_AJ344115</text>
+  <line
+     x1="1173.555514"
+     y1="1310.000000"
+     x2="1350.123788"
+     y2="1310.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5094" />
+  <text
+     x="1355.123788"
+     y="1314.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5096">A2_AF090838</text>
+  <line
+     x1="1173.555514"
+     y1="1290.000000"
+     x2="1173.555514"
+     y2="1310.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5098" />
+  <circle
+     cx="1173.555514"
+     cy="1300.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5100" />
+  <line
+     x1="1066.641966"
+     y1="1300.000000"
+     x2="1173.555514"
+     y2="1300.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5102" />
+  <line
+     x1="1066.641966"
+     y1="1330.000000"
+     x2="1237.106371"
+     y2="1330.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5104" />
+  <text
+     x="1242.106371"
+     y="1334.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5106">A2_AF297622</text>
+  <line
+     x1="1066.641966"
+     y1="1300.000000"
+     x2="1066.641966"
+     y2="1330.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5108" />
+  <circle
+     cx="1066.641966"
+     cy="1315.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5110" />
+  <line
+     x1="948.166379"
+     y1="1315.000000"
+     x2="1066.641966"
+     y2="1315.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5112" />
+  <line
+     x1="948.166379"
+     y1="1107.187500"
+     x2="948.166379"
+     y2="1315.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5114" />
+  <circle
+     cx="948.166379"
+     cy="1211.093750"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5116" />
+  <line
+     x1="599.529542"
+     y1="1211.093750"
+     x2="948.166379"
+     y2="1211.093750"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5118" />
+  <line
+     x1="1426.951821"
+     y1="1350.000000"
+     x2="1449.167885"
+     y2="1350.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5120" />
+  <text
+     x="1454.167885"
+     y="1354.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5122">C4_AB048705</text>
+  <line
+     x1="1426.951821"
+     y1="1370.000000"
+     x2="1511.962065"
+     y2="1370.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5124" />
+  <text
+     x="1516.962065"
+     y="1374.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5126">C4_AB048704</text>
+  <line
+     x1="1426.951821"
+     y1="1350.000000"
+     x2="1426.951821"
+     y2="1370.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5128" />
+  <circle
+     cx="1426.951821"
+     cy="1360.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5130" />
+  <line
+     x1="984.497009"
+     y1="1360.000000"
+     x2="1426.951821"
+     y2="1360.000000"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5132" />
+  <line
+     x1="1188.557915"
+     y1="1390.000000"
+     x2="1366.750524"
+     y2="1390.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5134" />
+  <text
+     x="1371.750524"
+     y="1394.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5136">C3_X75665</text>
+  <line
+     x1="1188.557915"
+     y1="1410.000000"
+     x2="1341.225255"
+     y2="1410.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5138" />
+  <text
+     x="1346.225255"
+     y="1414.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5140">C3_X75656</text>
+  <line
+     x1="1188.557915"
+     y1="1390.000000"
+     x2="1188.557915"
+     y2="1410.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5142" />
+  <circle
+     cx="1188.557915"
+     cy="1400.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5144" />
+  <line
+     x1="1094.719762"
+     y1="1400.000000"
+     x2="1188.557915"
+     y2="1400.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5146" />
+  <line
+     x1="1509.197668"
+     y1="1430.000000"
+     x2="1649.283977"
+     y2="1430.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5148" />
+  <text
+     x="1654.283977"
+     y="1434.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5150">C5_AF241411</text>
+  <line
+     x1="1662.662043"
+     y1="1450.000000"
+     x2="1764.642050"
+     y2="1450.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5152" />
+  <text
+     x="1769.642050"
+     y="1454.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5154">C5_AB241109</text>
+  <text
+     x="1736.802228"
+     y="1474.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5158">C5_AB241110</text>
+  <line
+     x1="1662.662043"
+     y1="1450.000000"
+     x2="1662.662043"
+     y2="1470.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5160" />
+  <circle
+     cx="1662.662043"
+     cy="1460.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5162" />
+  <line
+     x1="1509.197668"
+     y1="1460.000000"
+     x2="1662.662043"
+     y2="1460.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5164" />
+  <line
+     x1="1509.197668"
+     y1="1430.000000"
+     x2="1509.197668"
+     y2="1460.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5166" />
+  <circle
+     cx="1509.197668"
+     cy="1445.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5168" />
+  <line
+     x1="1240.687980"
+     y1="1445.000000"
+     x2="1509.197668"
+     y2="1445.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5170" />
+  <line
+     x1="1499.290232"
+     y1="1490.000000"
+     x2="1683.808669"
+     y2="1490.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5172" />
+  <text
+     x="1688.808669"
+     y="1494.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5174">C1_AB112472</text>
+  <line
+     x1="1499.290232"
+     y1="1510.000000"
+     x2="1707.528000"
+     y2="1510.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5176" />
+  <text
+     x="1712.528000"
+     y="1514.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5178">C1_AB111946</text>
+  <line
+     x1="1499.290232"
+     y1="1490.000000"
+     x2="1499.290232"
+     y2="1510.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5180" />
+  <circle
+     cx="1499.290232"
+     cy="1500.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5182" />
+  <line
+     x1="1428.485355"
+     y1="1500.000000"
+     x2="1499.290232"
+     y2="1500.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5184" />
+  <line
+     x1="1428.485355"
+     y1="1530.000000"
+     x2="1580.133702"
+     y2="1530.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5186" />
+  <text
+     x="1585.133702"
+     y="1534.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5188">C1_AB074756</text>
+  <line
+     x1="1428.485355"
+     y1="1500.000000"
+     x2="1428.485355"
+     y2="1530.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5190" />
+  <circle
+     cx="1428.485355"
+     cy="1515.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5192" />
+  <line
+     x1="1247.558616"
+     y1="1515.000000"
+     x2="1428.485355"
+     y2="1515.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5194" />
+  <line
+     x1="1272.145604"
+     y1="1550.000000"
+     x2="1604.811492"
+     y2="1550.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5196" />
+  <text
+     x="1609.811492"
+     y="1554.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5198">C2_AY206379</text>
+  <line
+     x1="1296.278586"
+     y1="1570.000000"
+     x2="1675.152273"
+     y2="1570.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5200" />
+  <line
+     x1="1296.278586"
+     y1="1590.000000"
+     x2="1543.903963"
+     y2="1590.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5204" />
+  <text
+     x="1548.903963"
+     y="1594.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5206">C2_M38636</text>
+  <line
+     x1="1296.278586"
+     y1="1570.000000"
+     x2="1296.278586"
+     y2="1590.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5208" />
+  <circle
+     cx="1296.278586"
+     cy="1580.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5210" />
+  <line
+     x1="1272.145604"
+     y1="1580.000000"
+     x2="1296.278586"
+     y2="1580.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5212" />
+  <line
+     x1="1272.145604"
+     y1="1550.000000"
+     x2="1272.145604"
+     y2="1580.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5214" />
+  <circle
+     cx="1272.145604"
+     cy="1565.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5216" />
+  <line
+     x1="1247.558616"
+     y1="1565.000000"
+     x2="1272.145604"
+     y2="1565.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5218" />
+  <line
+     x1="1247.558616"
+     y1="1515.000000"
+     x2="1247.558616"
+     y2="1565.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5220" />
+  <circle
+     cx="1247.558616"
+     cy="1540.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5222" />
+  <line
+     x1="1240.687980"
+     y1="1540.000000"
+     x2="1247.558616"
+     y2="1540.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5224" />
+  <line
+     x1="1240.687980"
+     y1="1445.000000"
+     x2="1240.687980"
+     y2="1540.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5226" />
+  <circle
+     cx="1240.687980"
+     cy="1492.500000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5228" />
+  <line
+     x1="1172.657589"
+     y1="1492.500000"
+     x2="1240.687980"
+     y2="1492.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5230" />
+  <line
+     x1="1440.693092"
+     y1="1610.000000"
+     x2="1484.469433"
+     y2="1610.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5232" />
+  <text
+     x="1489.469433"
+     y="1614.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5234">C8_AP011104</text>
+  <line
+     x1="1440.693092"
+     y1="1630.000000"
+     x2="1508.168586"
+     y2="1630.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5236" />
+  <text
+     x="1513.168586"
+     y="1634.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5238">C8_AP011106</text>
+  <line
+     x1="1440.693092"
+     y1="1610.000000"
+     x2="1440.693092"
+     y2="1630.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5240" />
+  <circle
+     cx="1440.693092"
+     cy="1620.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5242" />
+  <line
+     x1="1172.657589"
+     y1="1620.000000"
+     x2="1440.693092"
+     y2="1620.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5244" />
+  <line
+     x1="1172.657589"
+     y1="1492.500000"
+     x2="1172.657589"
+     y2="1620.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5246" />
+  <circle
+     cx="1172.657589"
+     cy="1556.250000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5248" />
+  <line
+     x1="1128.830803"
+     y1="1556.250000"
+     x2="1172.657589"
+     y2="1556.250000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5250" />
+  <line
+     x1="1451.427830"
+     y1="1650.000000"
+     x2="1459.034965"
+     y2="1650.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5252" />
+  <text
+     x="1464.034965"
+     y="1654.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5254">C3_AB493841</text>
+  <line
+     x1="1451.427830"
+     y1="1670.000000"
+     x2="1474.955469"
+     y2="1670.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5256" />
+  <text
+     x="1479.955469"
+     y="1674.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5258">C6_AP011103</text>
+  <line
+     x1="1451.427830"
+     y1="1650.000000"
+     x2="1451.427830"
+     y2="1670.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5260" />
+  <circle
+     cx="1451.427830"
+     cy="1660.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5262" />
+  <line
+     x1="1306.972967"
+     y1="1660.000000"
+     x2="1451.427830"
+     y2="1660.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5264" />
+  <line
+     x1="1306.972967"
+     y1="1690.000000"
+     x2="1487.455789"
+     y2="1690.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5266" />
+  <text
+     x="1492.455789"
+     y="1694.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5268">C3_AB493842</text>
+  <line
+     x1="1306.972967"
+     y1="1660.000000"
+     x2="1306.972967"
+     y2="1690.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5270" />
+  <circle
+     cx="1306.972967"
+     cy="1675.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5272" />
+  <line
+     x1="1278.501699"
+     y1="1675.000000"
+     x2="1306.972967"
+     y2="1675.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5274" />
+  <line
+     x1="1291.899943"
+     y1="1710.000000"
+     x2="1479.293756"
+     y2="1710.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5276" />
+  <text
+     x="1484.293756"
+     y="1714.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5278">C3_AB493840</text>
+  <line
+     x1="1453.768487"
+     y1="1730.000000"
+     x2="1526.268322"
+     y2="1730.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5280" />
+  <text
+     x="1531.268322"
+     y="1734.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5282">C6_AP011102</text>
+  <line
+     x1="1453.768487"
+     y1="1750.000000"
+     x2="1514.867708"
+     y2="1750.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5284" />
+  <text
+     x="1519.867708"
+     y="1754.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5286">C3_AB493839</text>
+  <line
+     x1="1453.768487"
+     y1="1730.000000"
+     x2="1453.768487"
+     y2="1750.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5288" />
+  <circle
+     cx="1453.768487"
+     cy="1740.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5290" />
+  <line
+     x1="1291.899943"
+     y1="1740.000000"
+     x2="1453.768487"
+     y2="1740.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5292" />
+  <line
+     x1="1291.899943"
+     y1="1710.000000"
+     x2="1291.899943"
+     y2="1740.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5294" />
+  <circle
+     cx="1291.899943"
+     cy="1725.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5296" />
+  <line
+     x1="1278.501699"
+     y1="1725.000000"
+     x2="1291.899943"
+     y2="1725.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5298" />
+  <line
+     x1="1278.501699"
+     y1="1675.000000"
+     x2="1278.501699"
+     y2="1725.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5300" />
+  <circle
+     cx="1278.501699"
+     cy="1700.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5302" />
+  <line
+     x1="1128.830803"
+     y1="1700.000000"
+     x2="1278.501699"
+     y2="1700.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5304" />
+  <line
+     x1="1128.830803"
+     y1="1556.250000"
+     x2="1128.830803"
+     y2="1700.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5306" />
+  <circle
+     cx="1128.830803"
+     cy="1628.125000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5308" />
+  <line
+     x1="1094.719762"
+     y1="1628.125000"
+     x2="1128.830803"
+     y2="1628.125000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5310" />
+  <line
+     x1="1094.719762"
+     y1="1400.000000"
+     x2="1094.719762"
+     y2="1628.125000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5312" />
+  <circle
+     cx="1094.719762"
+     cy="1514.062500"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5314" />
+  <line
+     x1="984.497009"
+     y1="1514.062500"
+     x2="1094.719762"
+     y2="1514.062500"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5316" />
+  <line
+     x1="984.497009"
+     y1="1360.000000"
+     x2="984.497009"
+     y2="1514.062500"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5318" />
+  <circle
+     cx="984.497009"
+     cy="1437.031250"
+     r="0.000000"
+     fill="#31a354"
+     stroke="#31a354"
+     id="circle5320" />
+  <line
+     x1="599.529542"
+     y1="1437.031250"
+     x2="984.497009"
+     y2="1437.031250"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5322" />
+  <line
+     x1="599.529542"
+     y1="1211.093750"
+     x2="599.529542"
+     y2="1437.031250"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5324" />
+  <circle
+     cx="599.529542"
+     cy="1324.062500"
+     r="0.000000"
+     fill="#31a354"
+     stroke="#31a354"
+     id="circle5326" />
+  <line
+     x1="558.416708"
+     y1="1324.062500"
+     x2="599.529542"
+     y2="1324.062500"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5328" />
+  <line
+     x1="558.416708"
+     y1="772.500000"
+     x2="558.416708"
+     y2="1324.062500"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5330" />
+  <circle
+     cx="558.416708"
+     cy="1048.281250"
+     r="0.000000"
+     fill="#31a354"
+     stroke="#31a354"
+     id="circle5332" />
+  <line
+     x1="411.641366"
+     y1="1048.281250"
+     x2="558.416708"
+     y2="1048.281250"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5334" />
+  <line
+     x1="411.641366"
+     y1="386.171875"
+     x2="411.641366"
+     y2="1048.281250"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5336" />
+  <circle
+     cx="411.641366"
+     cy="717.226562"
+     r="0.000000"
+     fill="#31a354"
+     stroke="#31a354"
+     id="circle5338" />
+  <line
+     x1="287.374671"
+     y1="717.226562"
+     x2="411.641366"
+     y2="717.226562"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5340" />
+  <line
+     x1="287.374671"
+     y1="67.500000"
+     x2="287.374671"
+     y2="717.226562"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5342" />
+  <circle
+     cx="287.374671"
+     cy="392.363281"
+     r="0.000000"
+     fill="#31a354"
+     stroke="#31a354"
+     id="circle5344" />
+  <line
+     x1="20.000000"
+     y1="392.363281"
+     x2="287.374671"
+     y2="392.363281"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5346" />
+  <line
+     x1="1300.364647"
+     y1="1770.000000"
+     x2="1360.616388"
+     y2="1770.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5348" />
+  <text
+     x="1365.616388"
+     y="1774.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5350">H_AY090454</text>
+  <line
+     x1="1300.364647"
+     y1="1790.000000"
+     x2="1334.223462"
+     y2="1790.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5352" />
+  <text
+     x="1339.223462"
+     y="1794.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5354">H_AY090457</text>
+  <line
+     x1="1300.364647"
+     y1="1770.000000"
+     x2="1300.364647"
+     y2="1790.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5356" />
+  <circle
+     cx="1300.364647"
+     cy="1780.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5358" />
+  <line
+     x1="1200.069509"
+     y1="1780.000000"
+     x2="1300.364647"
+     y2="1780.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5360" />
+  <line
+     x1="1320.905930"
+     y1="1810.000000"
+     x2="1359.889978"
+     y2="1810.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5362" />
+  <text
+     x="1364.889978"
+     y="1814.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5364">H_AY090460</text>
+  <line
+     x1="1320.905930"
+     y1="1830.000000"
+     x2="1380.078145"
+     y2="1830.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5366" />
+  <text
+     x="1385.078145"
+     y="1834.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5368">H_AB275308</text>
+  <line
+     x1="1320.905930"
+     y1="1810.000000"
+     x2="1320.905930"
+     y2="1830.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5370" />
+  <circle
+     cx="1320.905930"
+     cy="1820.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5372" />
+  <line
+     x1="1260.724812"
+     y1="1820.000000"
+     x2="1320.905930"
+     y2="1820.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5374" />
+  <line
+     x1="1260.724812"
+     y1="1850.000000"
+     x2="1407.651489"
+     y2="1850.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5376" />
+  <text
+     x="1412.651489"
+     y="1854.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5378">H_AB059660</text>
+  <line
+     x1="1260.724812"
+     y1="1820.000000"
+     x2="1260.724812"
+     y2="1850.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5380" />
+  <circle
+     cx="1260.724812"
+     cy="1835.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5382" />
+  <line
+     x1="1200.069509"
+     y1="1835.000000"
+     x2="1260.724812"
+     y2="1835.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5384" />
+  <line
+     x1="1200.069509"
+     y1="1780.000000"
+     x2="1200.069509"
+     y2="1835.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5386" />
+  <circle
+     cx="1200.069509"
+     cy="1807.500000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5388" />
+  <line
+     x1="794.480046"
+     y1="1807.500000"
+     x2="1200.069509"
+     y2="1807.500000"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5390" />
+  <line
+     x1="1318.514828"
+     y1="1870.000000"
+     x2="1574.816779"
+     y2="1870.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5392" />
+  <text
+     x="1579.816779"
+     y="1874.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5394">F3_X75663</text>
+  <line
+     x1="1402.163052"
+     y1="1890.000000"
+     x2="1546.335421"
+     y2="1890.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5396" />
+  <text
+     x="1551.335421"
+     y="1894.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5398">F3_AB116550</text>
+  <line
+     x1="1402.163052"
+     y1="1910.000000"
+     x2="1409.548228"
+     y2="1910.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5400" />
+  <text
+     x="1414.548228"
+     y="1914.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5402">F3_AB116549</text>
+  <line
+     x1="1402.163052"
+     y1="1890.000000"
+     x2="1402.163052"
+     y2="1910.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5404" />
+  <circle
+     cx="1402.163052"
+     cy="1900.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5406" />
+  <line
+     x1="1318.514828"
+     y1="1900.000000"
+     x2="1402.163052"
+     y2="1900.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5408" />
+  <line
+     x1="1318.514828"
+     y1="1870.000000"
+     x2="1318.514828"
+     y2="1900.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5410" />
+  <circle
+     cx="1318.514828"
+     cy="1885.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5412" />
+  <line
+     x1="1255.357443"
+     y1="1885.000000"
+     x2="1318.514828"
+     y2="1885.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5414" />
+  <line
+     x1="1614.920709"
+     y1="1930.000000"
+     x2="1705.348767"
+     y2="1930.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5416" />
+  <text
+     x="1710.348767"
+     y="1934.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5418">F4_AB166850</text>
+  <line
+     x1="1614.920709"
+     y1="1950.000000"
+     x2="1812.000000"
+     y2="1950.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5420" />
+  <text
+     x="1817.000000"
+     y="1954.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5422">F4_AB214516</text>
+  <line
+     x1="1614.920709"
+     y1="1930.000000"
+     x2="1614.920709"
+     y2="1950.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5424" />
+  <circle
+     cx="1614.920709"
+     cy="1940.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5426" />
+  <line
+     x1="1563.557411"
+     y1="1940.000000"
+     x2="1614.920709"
+     y2="1940.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5428" />
+  <line
+     x1="1577.117080"
+     y1="1970.000000"
+     x2="1620.610927"
+     y2="1970.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5430" />
+  <text
+     x="1625.610927"
+     y="1974.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5432">F4_AF223965</text>
+  <line
+     x1="1577.117080"
+     y1="1990.000000"
+     x2="1612.378271"
+     y2="1990.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5434" />
+  <text
+     x="1617.378271"
+     y="1994.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5436">F4_AF223962</text>
+  <line
+     x1="1577.117080"
+     y1="1970.000000"
+     x2="1577.117080"
+     y2="1990.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5438" />
+  <circle
+     cx="1577.117080"
+     cy="1980.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5440" />
+  <line
+     x1="1563.557411"
+     y1="1980.000000"
+     x2="1577.117080"
+     y2="1980.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5442" />
+  <line
+     x1="1563.557411"
+     y1="1940.000000"
+     x2="1563.557411"
+     y2="1980.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5444" />
+  <circle
+     cx="1563.557411"
+     cy="1960.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5446" />
+  <line
+     x1="1333.406250"
+     y1="1960.000000"
+     x2="1563.557411"
+     y2="1960.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5448" />
+  <line
+     x1="1575.714703"
+     y1="2010.000000"
+     x2="1644.471505"
+     y2="2010.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5450" />
+  <line
+     x1="1575.714703"
+     y1="2030.000000"
+     x2="1629.519549"
+     y2="2030.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5454" />
+  <text
+     x="1634.519549"
+     y="2034.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5456">F2a_AY311369</text>
+  <line
+     x1="1575.714703"
+     y1="2010.000000"
+     x2="1575.714703"
+     y2="2030.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5458" />
+  <circle
+     cx="1575.714703"
+     cy="2020.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5460" />
+  <line
+     x1="1428.253307"
+     y1="2020.000000"
+     x2="1575.714703"
+     y2="2020.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5462" />
+  <line
+     x1="1622.416865"
+     y1="2050.000000"
+     x2="1663.216940"
+     y2="2050.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5464" />
+  <text
+     x="1668.216940"
+     y="2054.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5466">F2b_DQ899146</text>
+  <line
+     x1="1622.416865"
+     y1="2070.000000"
+     x2="1640.385444"
+     y2="2070.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5468" />
+  <text
+     x="1645.385444"
+     y="2074.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5470">F2b_DQ899144</text>
+  <line
+     x1="1622.416865"
+     y1="2050.000000"
+     x2="1622.416865"
+     y2="2070.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5472" />
+  <circle
+     cx="1622.416865"
+     cy="2060.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5474" />
+  <line
+     x1="1428.253307"
+     y1="2020.000000"
+     x2="1428.253307"
+     y2="2060.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5478" />
+  <circle
+     cx="1428.253307"
+     cy="2040.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5480" />
+  <line
+     x1="1333.406250"
+     y1="2040.000000"
+     x2="1428.253307"
+     y2="2040.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5482" />
+  <line
+     x1="1333.406250"
+     y1="1960.000000"
+     x2="1333.406250"
+     y2="2040.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5484" />
+  <circle
+     cx="1333.406250"
+     cy="2000.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5486" />
+  <line
+     x1="1255.357443"
+     y1="2000.000000"
+     x2="1333.406250"
+     y2="2000.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5488" />
+  <line
+     x1="1255.357443"
+     y1="1885.000000"
+     x2="1255.357443"
+     y2="2000.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5490" />
+  <circle
+     cx="1255.357443"
+     cy="1942.500000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5492" />
+  <line
+     x1="1119.084791"
+     y1="1942.500000"
+     x2="1255.357443"
+     y2="1942.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5494" />
+  <line
+     x1="1479.394646"
+     y1="2090.000000"
+     x2="1517.137742"
+     y2="2090.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5496" />
+  <text
+     x="1522.137742"
+     y="2094.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5498">F1a_AY090459</text>
+  <line
+     x1="1521.930035"
+     y1="2110.000000"
+     x2="1553.952646"
+     y2="2110.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5500" />
+  <text
+     x="1558.952646"
+     y="2114.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5502">F1a_AY090458</text>
+  <line
+     x1="1521.930035"
+     y1="2130.000000"
+     x2="1601.885671"
+     y2="2130.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5504" />
+  <text
+     x="1606.885671"
+     y="2134.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5506">F1a_AY090456</text>
+  <line
+     x1="1521.930035"
+     y1="2110.000000"
+     x2="1521.930035"
+     y2="2130.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5508" />
+  <circle
+     cx="1521.930035"
+     cy="2120.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5510" />
+  <line
+     x1="1479.394646"
+     y1="2120.000000"
+     x2="1521.930035"
+     y2="2120.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5512" />
+  <line
+     x1="1479.394646"
+     y1="2090.000000"
+     x2="1479.394646"
+     y2="2120.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5514" />
+  <circle
+     cx="1479.394646"
+     cy="2105.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5516" />
+  <line
+     x1="1407.318551"
+     y1="2105.000000"
+     x2="1479.394646"
+     y2="2105.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5518" />
+  <line
+     x1="1494.265890"
+     y1="2150.000000"
+     x2="1661.975988"
+     y2="2150.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5520" />
+  <text
+     x="1666.975988"
+     y="2154.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5522">F1b_AB116654</text>
+  <line
+     x1="1494.265890"
+     y1="2170.000000"
+     x2="1603.540273"
+     y2="2170.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5524" />
+  <line
+     x1="1494.265890"
+     y1="2150.000000"
+     x2="1494.265890"
+     y2="2170.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5528" />
+  <circle
+     cx="1494.265890"
+     cy="2160.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5530" />
+  <line
+     x1="1471.938846"
+     y1="2160.000000"
+     x2="1494.265890"
+     y2="2160.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5532" />
+  <line
+     x1="1471.938846"
+     y1="2190.000000"
+     x2="1629.287501"
+     y2="2190.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5534" />
+  <text
+     x="1634.287501"
+     y="2194.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5536">F1b_FJ657525</text>
+  <line
+     x1="1471.938846"
+     y1="2160.000000"
+     x2="1471.938846"
+     y2="2190.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5538" />
+  <circle
+     cx="1471.938846"
+     cy="2175.000000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5540" />
+  <line
+     x1="1454.918637"
+     y1="2175.000000"
+     x2="1471.938846"
+     y2="2175.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5542" />
+  <line
+     x1="1454.918637"
+     y1="2210.000000"
+     x2="1538.576950"
+     y2="2210.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5544" />
+  <text
+     x="1543.576950"
+     y="2214.000000"
+     font-size="12"
+     font-family="Arial;"
+     id="text5546">F1b_AF223963</text>
+  <line
+     x1="1454.918637"
+     y1="2175.000000"
+     x2="1454.918637"
+     y2="2210.000000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5548" />
+  <circle
+     cx="1454.918637"
+     cy="2192.500000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5550" />
+  <line
+     x1="1407.318551"
+     y1="2192.500000"
+     x2="1454.918637"
+     y2="2192.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5552" />
+  <line
+     x1="1407.318551"
+     y1="2105.000000"
+     x2="1407.318551"
+     y2="2192.500000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5554" />
+  <circle
+     cx="1407.318551"
+     cy="2148.750000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5556" />
+  <line
+     x1="1119.084791"
+     y1="2148.750000"
+     x2="1407.318551"
+     y2="2148.750000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5558" />
+  <line
+     x1="1119.084791"
+     y1="1942.500000"
+     x2="1119.084791"
+     y2="2148.750000"
+     stroke="#ff0000"
+     stroke-width="3.000000"
+     id="line5560" />
+  <circle
+     cx="1119.084791"
+     cy="2045.625000"
+     r="0.000000"
+     fill="#ff0000"
+     stroke="#ff0000"
+     id="circle5562" />
+  <line
+     x1="794.480046"
+     y1="2045.625000"
+     x2="1119.084791"
+     y2="2045.625000"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5564" />
+  <line
+     x1="794.480046"
+     y1="1807.500000"
+     x2="794.480046"
+     y2="2045.625000"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5566" />
+  <circle
+     cx="794.480046"
+     cy="1926.562500"
+     r="0.000000"
+     fill="#31a354"
+     stroke="#31a354"
+     id="circle5568" />
+  <line
+     x1="20.000000"
+     y1="1926.562500"
+     x2="794.480046"
+     y2="1926.562500"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5570" />
+  <line
+     x1="20.000000"
+     y1="392.363281"
+     x2="20.000000"
+     y2="1926.562500"
+     stroke="#31a354"
+     stroke-width="3.000000"
+     id="line5572" />
+  <circle
+     cx="20.000000"
+     cy="1159.462891"
+     r="0.000000"
+     fill="#31a354"
+     stroke="#31a354"
+     id="circle5574" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot5590"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion5592"><rect
+         id="rect5594"
+         width="44.481056"
+         height="363.26193"
+         x="1656.9193"
+         y="967.46295" /></flowRegion><flowPara
+       id="flowPara5596" /></flowRoot>  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m -648.68204,956.34267 c -3.70676,659.80233 -3.70676,663.50903 -3.70676,663.50903"
+     id="path5618"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path5620"
+     d="m -648.68204,956.34267 c -3.70676,659.80233 -3.70676,663.50903 -3.70676,663.50903"
+     style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>
